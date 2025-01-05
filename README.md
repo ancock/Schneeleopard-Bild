@@ -89,6 +89,7 @@
             <li><strong>Verdrängung durch andere Arten:</strong> Höhere Temperaturen könnten andere Raubtiere (z. B. Leoparden) in höhere Gebiete bringen, die dann mit Schneeleoparden konkurrieren.</li>
             <li><strong>Zunahme von Mensch-Wildtier-Konflikten:</strong> Durch die Ausbreitung landwirtschaftlicher Flächen in höhere Lagen steigt die Wahrscheinlichkeit von Konflikten mit Hirten, etwa durch Angriffe auf Vieh.</li>
         </ul>
+        <img src="schneeleopard.jpg" alt="Schneeleopard im Hochgebirge" title="Schneeleopard in seinem natürlichen Lebensraum">
         <p>
             Der Schneeleopard ist gezwungen, höher gelegene und isoliertere Gebiete aufzusuchen, was seine Überlebensfähigkeit zusätzlich erschwert.
         </p>
